@@ -1,2 +1,2 @@
 # html-resume
-My Resume created using basic HTML,
+My Resume created using basic HTML.
